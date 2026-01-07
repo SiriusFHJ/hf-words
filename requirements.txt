@@ -1,0 +1,9 @@
+spacy
+spacy-transformers
+torch
+pandas
+datasets
+python-dotenv
+tqdm
+
+openai
